@@ -9,7 +9,7 @@ class Preloader extends Component {
         return (
             <div className="preloader_container">
                 <Glitch_Text text="Loading" underText="请稍等" />
-                <p className="forced_bottom"> <small>&copy; Copyright 2018, Team Hai</small> </p> 
+                <p className="forced_bottom"> <small>&copy; Copyright 2022, Team Hai</small> </p> 
             </div>
 
         )
