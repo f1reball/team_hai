@@ -1,0 +1,14 @@
+.preloader_container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.forced_bottom {
+    position: absolute;
+    bottom: 10px;
+    font-size: 1rem;
+    font-weight: 100;
+    color: #4f5052;
+}
